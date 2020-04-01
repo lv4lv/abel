@@ -1,19 +1,7 @@
-<style type="text/css">
-    .fireworks {
-        position=fixed;
-        pointer-events=none;
-        top=0;
-        left=0;
-        height=100%;
-    }
-</style>
-<canvas class="fireworks"></canvas>
-<script src="/life/js/anime.min.js"></script>
-<script src="/life/js/fireworks.js"></script>
 <script type="text/javascript">
-  fireworks.setCanvasSize();
+         
+        !function (e, t, a) {function r() {for (var e = 0; e < s.length; e++) s[e].alpha <= 0 ? (t.body.removeChild(s[e].el), s.splice(e, 1)) : (s[e].y--, s[e].scale += .004, s[e].alpha -= .013, s[e].el.style.cssText = "left:" + s[e].x + "px;top:" + s[e].y + "px;opacity:" + s[e].alpha + ";transform:scale(" + s[e].scale + "," + s[e].scale + ") rotate(45deg);background:" + s[e].color + ";z-index:99999");requestAnimationFrame(r)}function n() {var t = "function" == typeof e.onclick && e.onclick;e.onclick = function (e) {t && t(), o(e)}}function o(e) {var a = t.createElement("div");a.className = "heart", s.push({el: a,x: e.clientX - 5,y: e.clientY - 5,scale: 1,alpha: 1,color: c()}), t.body.appendChild(a)}function i(e) {var a = t.createElement("style");a.type = "text/css";try {a.appendChild(t.createTextNode(e))} catch (t) {a.styleSheet.cssText = e}t.getElementsByTagName("head")[0].appendChild(a)}function c() {return "rgb(" + ~~(255 * Math.random()) + "," + ~~(255 * Math.random()) + "," + ~~(255 * Math.random()) + ")"}var s = [];e.requestAnimationFrame = e.requestAnimationFrame || e.webkitRequestAnimationFrame || e.mozRequestAnimationFrame || e.oRequestAnimationFrame || e.msRequestAnimationFrame || function (e) {setTimeout(e, 1e3 / 60)}, i(".heart{width: 10px;height: 10px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -5px;}.heart:before{left: -5px;}"), n(), r()}(window, document);
 </script>
-
 <!DOCTYPE html>
 <html lang="zh-cn">
 <head><meta charset="utf-8">
@@ -154,11 +142,11 @@
                 music:
                     [
                         {
-                            artist: '要不要买菜',
-                            name: '下山',
-                            url: 'https://sharefs.yun.kugou.com/202001192159/203f75e19edc8d4abf66b2e7a7668422/G177/M04/18/07/8Q0DAF3VSvKAc3KNACpan3BcZnU587.mp3',
-                            cover: 'https://p3fx.kgimg.com/stdmusic/20191120/20191120204014790242.jpg',
-                            lrc:"[00:00.000] 作曲 : 朱斌语[00:01.000] 作词 : 朱斌语[00:04.39]编曲：王中易[00:12.61][00:15.16]要想练就绝世武功[00:17.15]就要忍受常人难忍受的痛[00:20.42]师傅喜欢喝的茶叫做乌龙[00:22.81]衣服爱穿中国红(嘿  师傅）[00:26.17]无论是炎夏或寒冬[00:28.68]我都很向往山门外的天空[00:31.83]还在南方等我 下山的我[00:35.00]的人叫小落[00:38.06]我左手一式太极拳[00:40.87]右手一剑刺身前[00:43.79]扫腿这招叫清雪[00:46.66]破轻功飞燕[00:49.44]我奇筋异脉力破天[00:52.41]一身正气荡人间[00:55.40]除暴安良我心愿[00:58.16]老师傅再见[01:01.77][01:13.40]要想练就绝世武功[01:15.56]就要忍受常人难忍受的痛[01:18.78]师傅喜欢喝的茶叫做乌龙[01:21.28]衣服爱穿中国红（师傅）[01:24.68]无论是炎夏或寒冬[01:27.23]我都很向往山门外的天空[01:30.23]还在南方等我 下山的我[01:33.43]的人叫小落（来）[01:36.54]我左手一式太极拳[01:39.40]右手一剑刺身前[01:42.35]扫腿这招叫清雪[01:45.13]破轻功飞燕[01:48.08]我奇筋异脉力破天[01:50.98]一身正气荡人间[01:53.98]除暴安良我心愿[01:56.76]老师傅再见[02:00.16](人法地~地法天~天法道~道法孜然 师..师傅，什么是孜然）[02:11.64]我左手一式太极拳[02:14.35]右手一剑刺身前[02:17.30]扫腿这招叫清雪[02:20.22]破轻功飞燕[02:23.11]我奇筋异脉力破天[02:26.06]一身正气荡人间[02:28.99]除暴安良我心愿[02:32.00]老师傅再见[02:35.35][02:36.32]制作人：王中易[02:37.15]混音：王宇呈[02:37.17]和声：朱斌语／涵木之／陈迪庭[02:38.16]配唱：王中易／谭佳瑶[02:39.03]统筹：谭佳瑶[02:40.04]制作公司/录音室：Hikoon Music[02:40.99]OP：嗨库文化",
+                            artist: '周深',
+                            name: '大鱼',
+                            url: 'http://music.163.com/song/media/outer/url?id=413812448.mp3',
+                            cover: 'http://p1.music.126.net/aiPQXP8mdLovQSrKsM3hMQ==/1416170985079958.jpg?param=130y130',
+                            lrc:"[00:00.000] 作曲 : 钱雷[00:01.000] 作词 : 尹约[00:43.20]海浪无声将夜幕深深淹没[00:49.87]漫过天空尽头的角落[00:56.69]大鱼在梦境的缝隙里游过[01:03.69]凝望你沉睡的轮廓[01:08.64][01:09.85]看海天一色 听风起雨落[01:16.44]执子手吹散苍茫茫烟波[01:23.33]大鱼的翅膀 已经太辽阔[01:31.13]我松开时间的绳索[01:36.04][01:37.12]怕你飞远去  怕你离我而去[01:43.92]更怕你永远停留在这里[01:50.81]每一滴泪水 都向你流淌去[01:58.35]倒流进天空的海底[02:03.40][02:19.34]海浪无声将夜幕深深淹没[02:25.85]漫过天空尽头的角落[02:32.79]大鱼在梦境的缝隙里游过[02:39.61]凝望你沉睡的轮廓[02:44.39][02:45.59]看海天一色 听风起雨落[02:52.53]执子手吹散苍茫茫烟波[02:59.37]大鱼的翅膀 已经太辽阔[03:07.10]我松开时间的绳索[03:12.05][03:13.11]看你飞远去  看你离我而去[03:19.95]原来你生来就属于天际[03:26.87]每一滴泪水 都向你流淌去[03:34.58]倒流回最初的相遇[03:59.31][04:08.02]",
                         },{
                             name: '悬日',
                             artist:'田馥甄',
