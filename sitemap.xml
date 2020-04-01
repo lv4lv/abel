@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/portfolio/666/</loc>
+    <loc>https://diary.abel.red/life/portfolio/666/</loc>
     <lastmod>2020-04-01T16:50:17+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/contact/</loc>
+    <loc>https://diary.abel.red/life/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://diary.abel.red/life/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://diary.abel.red/life/</loc>
     <lastmod>2020-04-01T16:50:17+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://diary.abel.red/life/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/portfolio/</loc>
+    <loc>https://diary.abel.red/life/portfolio/</loc>
     <lastmod>2020-04-01T16:50:17+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://diary.abel.red/life/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Abel&#39;s Life</title>
-    <link>https://example.org/portfolio/</link>
+    <link>https://diary.abel.red/life/portfolio/</link>
     <description>Recent content in Portfolios on Abel&#39;s Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 01 Apr 2020 16:50:17 +0800</lastBuildDate>
     
-	<atom:link href="https://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diary.abel.red/life/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>从前有座山</title>
-      <link>https://example.org/portfolio/666/</link>
+      <link>https://diary.abel.red/life/portfolio/666/</link>
       <pubDate>Wed, 01 Apr 2020 16:50:17 +0800</pubDate>
       
-      <guid>https://example.org/portfolio/666/</guid>
+      <guid>https://diary.abel.red/life/portfolio/666/</guid>
       <description>&lt;p&gt;山里有座庙！&lt;/p&gt;</description>
     </item>
     
