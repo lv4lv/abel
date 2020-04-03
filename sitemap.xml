@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://diary.abel.red/life/portfolio/%E8%86%9C%E6%8B%9C%E6%91%A9%E6%8B%9C/</loc>
+    <lastmod>2020-04-03T23:28:33+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://diary.abel.red/life/portfolio/%E6%9C%89%E4%B8%AA%E5%B0%8F%E5%AD%A9%E5%8F%ABzly/</loc>
     <lastmod>2020-04-02T22:37:50+08:00</lastmod>
   </url>
@@ -49,7 +54,7 @@
   
   <url>
     <loc>https://diary.abel.red/life/</loc>
-    <lastmod>2020-04-02T22:37:50+08:00</lastmod>
+    <lastmod>2020-04-03T23:28:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -60,7 +65,7 @@
   
   <url>
     <loc>https://diary.abel.red/life/portfolio/</loc>
-    <lastmod>2020-04-02T22:37:50+08:00</lastmod>
+    <lastmod>2020-04-03T23:28:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
