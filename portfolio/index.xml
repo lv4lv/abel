@@ -6,10 +6,20 @@
     <description>Recent content in Portfolios on Abel&#39;s Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 06 Apr 2020 09:23:59 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2020 23:29:27 +0800</lastBuildDate>
     
 	<atom:link href="https://diary.abel.red/life/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Onedrive</title>
+      <link>https://diary.abel.red/life/portfolio/onedrive/</link>
+      <pubDate>Mon, 06 Apr 2020 23:29:27 +0800</pubDate>
+      
+      <guid>https://diary.abel.red/life/portfolio/onedrive/</guid>
+      <description>{{ vurlf &amp;ldquo;https://nekopara-my.sharepoint.com/personal/abel_neko_52loli_vip/_layouts/52/download.aspx?share=EbrlW_L070RLh9hy0FL_5-AB_8ovaGSKqlg071UlKmU7Lg&amp;quot; &amp;gt;}}
+</description>
+    </item>
     
     <item>
       <title>视频</title>
