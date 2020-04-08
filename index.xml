@@ -6,10 +6,19 @@
     <description>Recent content on Abel&#39;s Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 06 Apr 2020 23:29:27 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2020 17:13:45 +0800</lastBuildDate>
     
 	<atom:link href="https://diary.abel.red/life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI写作</title>
+      <link>https://diary.abel.red/life/portfolio/ai%E5%86%99%E4%BD%9C/</link>
+      <pubDate>Wed, 08 Apr 2020 17:13:45 +0800</pubDate>
+      
+      <guid>https://diary.abel.red/life/portfolio/ai%E5%86%99%E4%BD%9C/</guid>
+      <description>&lt;p&gt;AI写的文章是怎么样的？&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Onedrive</title>
