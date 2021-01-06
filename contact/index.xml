@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Get in touch on YiYi&#39;s Zone</title>
-    <link>https://blog.yiyi.zone/contact/</link>
+    <link>https://beifen.yiyi.zone/contact/</link>
     <description>Recent content in Get in touch on YiYi&#39;s Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
     
-	<atom:link href="https://blog.yiyi.zone/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beifen.yiyi.zone/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
