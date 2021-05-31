@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on YiYi&#39;s Zone</title>
-    <link>https://beifen.yiyi.zone/tags/</link>
+    <link>https://yiyibeifen.abel.red/tags/</link>
     <description>Recent content in Tags on YiYi&#39;s Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="https://beifen.yiyi.zone/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yiyibeifen.abel.red/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
